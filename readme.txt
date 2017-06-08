@@ -4,4 +4,4 @@
 第三次修改
 第四次修改
 第五次修改
-第六次修改1
+Creating a new branch is quick AND simple.
